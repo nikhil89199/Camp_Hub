@@ -20,7 +20,7 @@ CampHub is a full-stack web application that enables users to explore, create, a
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - HTML5
@@ -204,6 +204,3 @@ http://localhost:3000
 
 
 
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
